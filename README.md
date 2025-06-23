@@ -24,7 +24,7 @@ Se puede ejecutar en sistemas Debian/Ubuntu o Google Cloud Shell.
 
 ## 🎥 Video explicativo
 
-[Ver video en YouTube](https://youtube.com/...)
+[Ver video en YouTube]((https://youtu.be/SdtN-jHVP_c))
 
 ## ✅ Requisitos
 
